@@ -1,0 +1,33 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753;
+	margin: 0; 
+	padding: 0;
+	background: url(little-prince800x469.jpg) no-repeat;
+	}
+p 	{ 
+	margin-top: 0; 
+	text-align: justify;
+	}
+h1	{
+	font: italic normal 3em georgia, sans-serif;
+	text-align: center;
+	font-color: #000000;
+	}
+#main_content {
+	margin-bottom: 40px;
+	margin-top: 50px;
+	}
+header {
+	padding-top: 20px;
+	padding-bottom: 10px;
+	background-color: #EBBBEE;
+	}
+#submit_button {
+	border-color: #EAD5EE;
+	}
